@@ -1,6 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("I wonder what day today is!");
         double weekday = (Math.random() * 7 ) +1;
         boolean isFriday = (Math.random() * 7 ) +1 <= 6;
         if (isFriday){
