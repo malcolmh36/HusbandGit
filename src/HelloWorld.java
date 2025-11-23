@@ -9,7 +9,7 @@ public class HelloWorld {
         } else  if (weekday == 7 || weekday ==1){
             System.out.println("It's the weekend!!");
         }else{
-            System.out.println("It's another day...");
+            System.out.println("It's another day....Can it be Friday yet?");
         }
 
 
